@@ -1,0 +1,7 @@
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\bin\Debug\16Lesson.exe.config
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\bin\Debug\16Lesson.exe
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\bin\Debug\16Lesson.pdb
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\obj\Debug\16Lesson.csproj.AssemblyReference.cache
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\obj\Debug\16Lesson.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\obj\Debug\16Lesson.exe
+C:\Users\ANNA\source\repos\16Lesson\16Lesson\obj\Debug\16Lesson.pdb
